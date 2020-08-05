@@ -1,24 +1,22 @@
-# vue-todolist
+## vue-todolist
 
-## Project setup
+展示效果：https://hello9102.github.io/vue-toDoList/dist/
+
+### 安装依赖
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 运行项目
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 打包部署
+
 ```
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
